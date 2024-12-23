@@ -54,7 +54,7 @@ A fun and interactive web-based application that allows you to **encrypt** or **
 ---
 
 ## 🎨 **Preview**
-![App Screenshot](screenshot.png)  
+![App Screenshot](https://github.com/nishnarudkar/Code_Cracker/blob/main/webscreenshot.png)  
 _Above: A screenshot of the Code Cracker Tool in action._
 
 ---
